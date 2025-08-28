@@ -16,7 +16,7 @@
 <br/>  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eissenv&layout=normal&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eissenv&layout=normal&theme=dark&cache_seconds=86400&v=2" />
 </div>
 
 ## My Skill Set  
