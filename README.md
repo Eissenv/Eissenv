@@ -4,7 +4,7 @@
 ### <div align="center">I'm Vanessa, a  Software Engineering undergraduate at the Federal University of Mato Grosso do Sul.</div>  
   
 
-- 🌱 I’m currently learning more about game development  
+- 🌱 I’m currently learning more about chatbots and intelligent assistants
   
 
 - 🎓 Federal University of Mato Grosso do Sul - Licensure in Visual Arts (2019 – 2021) (Incomplete)   
