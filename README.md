@@ -1,7 +1,7 @@
 # **<div align="center">👩‍💻</div>**  
   
 
-### <div align="center">I'm Vanessa, a  Software Engineering undergraduate at the Federal University of Mato Grosso do Sul.</div>  
+### <div align="center">I'm Vanessa, a Software Developer from Brazil.</div>  
   
 
 - 🌱 I’m currently learning more about chatbots and intelligent assistants
