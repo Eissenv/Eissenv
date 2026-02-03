@@ -5,14 +5,24 @@ on:
     - cron: "0 3 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: eissenv
           BRANCH_NAME: main
-          THEME: nord_dark
+          UTC_OFFSET: -4
+          EXCLUDE: ""
+          AUTO_PUSH: true
