@@ -60,6 +60,18 @@
 
 <br/>  
 
+## GitHub Stats
+
+<div align="center">
+
+<img src="./profile-summary-card-output/default/3-stats.svg" />
+
+<img src="./profile-summary-card-output/default/1-repos-per-language.svg" />
+<img src="./profile-summary-card-output/default/2-most-commit-language.svg" />
+
+</div>
+
+<br/>  
 
 ## Connect with me  
 <div align="center">
@@ -73,13 +85,4 @@
   
 <br />
 
-## GitHub Stats
 
-<div align="center">
-
-<img src="./profile-summary-card-output/default/3-stats.svg" />
-
-<img src="./profile-summary-card-output/default/1-repos-per-language.svg" />
-<img src="./profile-summary-card-output/default/2-most-commit-language.svg" />
-
-</div>
