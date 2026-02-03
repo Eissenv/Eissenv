@@ -10,7 +10,7 @@
 - 🎓 Federal University of Mato Grosso do Sul - Licensure in Visual Arts (2019 – 2021) (Incomplete)   
   
 
-- 🎓 Federal University of Mato Grosso do Sul - Bachelor’s in Software Engineering (2022 – Dec 2025)  
+- 🎓 Federal University of Mato Grosso do Sul - Bachelor’s in Software Engineering (2022 – 2025) (Complete)
   
 
 <br/>  
